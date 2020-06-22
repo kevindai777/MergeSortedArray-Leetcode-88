@@ -16,9 +16,9 @@ nums1.sort((a,b) => {
 
 
 //O(n + m) solution (PREFERRED)
+
 //We use a 2 pointer solution with both pointers (p1 and p2) starting
 //from the back of the arrays
-
 //p3 is to represent the back of the final array (the finished nums1 array)
 let p1 = n - 1
 let p2 = m - 1
