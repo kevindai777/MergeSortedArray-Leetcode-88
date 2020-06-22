@@ -1,6 +1,6 @@
 # MergeSortedArray-Leetcode-88
 
-Leetcode Question 88 (Array)
+Leetcode Question 88 (Easy)
 
 Techniques Used in Question:
 Two-Pointers
