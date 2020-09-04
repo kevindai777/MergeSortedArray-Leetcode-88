@@ -1,4 +1,4 @@
-//Javascript solution written in Java
+//Java Solution
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
